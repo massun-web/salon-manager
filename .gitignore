@@ -1,0 +1,26 @@
+/node_modules/
+/.next/
+/out/
+/build/
+/.npm-cache/
+/.browser-test/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+!.env.example
+*.log
+.DS_Store
+
+# Hosting metadata, credentials and local editor files
+/.vercel/
+/.aws/
+/.ssh/
+/.codex/
+/.agents/
+/.idea/
+/.vscode/
+*.pem
+*.key
+*.p12
+*.pfx
+Thumbs.db
